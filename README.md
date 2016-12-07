@@ -15,9 +15,10 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 ### Howtos
 * [Your first Web Extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
 * [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
+* [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 
 ## Tools
-* []
+
 
 ## Videos
 
@@ -25,9 +26,12 @@ Assortment of conference and training videos.
 
 ### Talks
 
+
 ### Training & tutorials
 
+
 ## Conferences
+
 
 ## Blogs
 
