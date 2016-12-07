@@ -17,6 +17,10 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 * [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
 * [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 
+### References
+
+* [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
+
 ## Tools
 
 
@@ -35,4 +39,6 @@ Assortment of conference and training videos.
 
 ## Blogs
 
-* [Web Extensions on MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [Firefox Web Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [Microsoft Edge Extensions](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/)
+* [Chrome Extensions](https://developer.chrome.com/extensions)
