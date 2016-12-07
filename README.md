@@ -13,6 +13,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 ##　Articles
 
 ### Howtos
+
 * [Your first Web Extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
 * [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
 * [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
@@ -22,6 +23,8 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
 
 ## Tools
+
+* [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 
 
 ## Videos
