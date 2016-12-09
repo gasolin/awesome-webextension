@@ -28,7 +28,6 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 ## Tools
 
 * [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
-* [Create React WebExtension](https://github.com/flybayer/create-react-webextension) Create React WebExtensions with no build configuration
 
 ## Videos
 
