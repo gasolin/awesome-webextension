@@ -8,7 +8,8 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 * [Tools](#tools)
 * [videos](#videos)
 * [Conferences](#conferences)
-* [Blogs](#blogs)
+* [Social](#social)
+* [References](#references)
 
 ##　Articles
 
@@ -40,8 +41,11 @@ Assortment of conference and training videos.
 
 ## Conferences
 
+## Social
 
-## Blogs
+* [#WebExtension on Twitter](https://twitter.com/hashtag/WebExtension)
+
+## References
 
 * [Firefox Web Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 * [Mozilla WebExtensions wiki](https://wiki.mozilla.org/WebExtensions)
