@@ -43,5 +43,6 @@ Assortment of conference and training videos.
 ## Blogs
 
 * [Firefox Web Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [Mozilla WebExtensions wiki](https://wiki.mozilla.org/WebExtensions)
 * [Microsoft Edge Extensions](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/)
 * [Chrome Extensions](https://developer.chrome.com/extensions)
