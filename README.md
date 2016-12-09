@@ -20,6 +20,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 
 ### References
 
+* [WebExtensions Experiments](https://webextensions-experiments.readthedocs.io/en/latest/)
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
 
 ## Tools
