@@ -28,6 +28,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 ## Tools
 
 * [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
+* [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) Advanced WebExtension generator that creates everything you need to get started with extension development (Chrome, Firefox, Opera)
 
 ## Videos
 
