@@ -19,6 +19,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 * [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
 * [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 * [Embeded WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Embedded_WebExtensions)
+* [Create a Simple Web Extension](https://davidwalsh.name/web-extensions)
 
 ### References
 
