@@ -23,7 +23,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 
 ### References
 
-* [Browser support for JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
+* :star2: [Browser support for JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
 * [WebExtensions Experiments](https://webextensions-experiments.readthedocs.io/en/latest/) allowing writte unsupported WebExtensions APIs in an another extension
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
 * [Firefox Web Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
