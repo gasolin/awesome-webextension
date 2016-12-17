@@ -22,13 +22,13 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 * [Create a Simple Web Extension](https://davidwalsh.name/web-extensions)
 
 ### Background pages
-```Implement long-running logic```
+`Implement long-running logic`
 
 ### Browser actions
-```Add buttons to the toolbar```
+`Add buttons to the toolbar`
 
 ### Page actions
-```Add buttons to the address bar```
+`Add buttons to the address bar`
 
 
 ### Firefox Related
@@ -45,6 +45,9 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 * [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 * [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) Advanced WebExtension generator that creates everything you need to get started with extension development (Chrome, Firefox, Opera)
 
+### Examples
+
+* [webextensions-examples](https://github.com/mdn/webextensions-examples) Example Firefox add-ons created using the WebExtensions API 
 
 ## Videos
 
