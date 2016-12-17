@@ -18,14 +18,16 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 All quotes are comming from [Anatomy of a WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension) 
 
 ### Content script
+`Interact with web pages`
+
 * [Your first Web Extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
 * [Create a Simple Web Extension](https://davidwalsh.name/web-extensions)
 
-### Background pages
-`Implement long-running logic`
-
 ### Browser actions
 `Add buttons to the toolbar`
+
+* [Your second WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExt
+ensions/Your_second_WebExtension)
 
 ### Page actions
 `Add buttons to the address bar`
