@@ -12,20 +12,22 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 
 ##　Articles
 
+Check [Anatomy of a WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension) to understand the sub categories
+
 ### Howtos
 
-* [Your first Web Extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
-* [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
-* [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
-* [Embeded WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Embedded_WebExtensions)
 
-## Content script
+### Content script
+* [Your first Web Extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
 * [Create a Simple Web Extension](https://davidwalsh.name/web-extensions)
 
 ### Firefox Related
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
 * [Mozilla WebExtensions wiki](https://wiki.mozilla.org/WebExtensions)
 * [WebExtensions Experiments](https://webextensions-experiments.readthedocs.io/en/latest/) allowing writte unsupported WebExtensions APIs in an another extension
+* [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
+* [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [Embeded WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Embedded_WebExtensions)
 
 
 ## Tools
