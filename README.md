@@ -34,6 +34,7 @@ ensions/Your_second_WebExtension)
 
 
 ### Firefox Related
+
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
 * [Mozilla WebExtensions wiki](https://wiki.mozilla.org/WebExtensions)
 * [WebExtensions Experiments](https://webextensions-experiments.readthedocs.io/en/latest/) allowing writte unsupported WebExtensions APIs in an another extension
@@ -41,6 +42,9 @@ ensions/Your_second_WebExtension)
 * [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 * [Embeded WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Embedded_WebExtensions)
 
+### Safari Related
+
+* [From Chrome Extension to Safari Extension](https://chunlianglyu.com/From_Chrome_Extension_to_Safari_Extension)
 
 ## Tools
 
