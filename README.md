@@ -31,6 +31,8 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 ### Page actions
 `Add buttons to the address bar`
 
+### Extension-specific Settings Page
+* [Implement a settings page](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Implement_a_settings_page)
 
 ### Firefox Related
 
@@ -39,7 +41,6 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 * [WebExtensions Experiments](https://webextensions-experiments.readthedocs.io/en/latest/) allowing writte unsupported WebExtensions APIs in an another extension
 * [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
 * [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
-* [Embeded WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Embedded_WebExtensions)
 
 ### Safari Related
 
