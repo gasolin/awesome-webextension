@@ -34,6 +34,11 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 ### Extension-specific Settings Page
 * [Implement a settings page](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Implement_a_settings_page)
 
+### Permissions
+`Some API require explicitly declare permissions in manifest.json`
+* [Chrome permissions](https://developer.chrome.com/extensions/declare_permissions)
+* [Firefox permissions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/permissions)
+
 ### Firefox Related
 
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
