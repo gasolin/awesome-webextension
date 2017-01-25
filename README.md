@@ -21,7 +21,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 * [Opera Extensions](https://dev.opera.com/extensions/)
 
 
-##　Articles
+## Articles
 
 ### Howtos
 
