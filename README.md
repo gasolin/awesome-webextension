@@ -23,6 +23,8 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 
 ## Articles
 
+* [Understand Google Chrome Extensions](https://gist.github.com/jjperezaguinaga/4243341)
+
 ### Howtos
 
 All quotes are comming from [Anatomy of a WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension) 
