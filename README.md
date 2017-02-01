@@ -24,6 +24,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 ## Articles
 
 * [Understand Google Chrome Extensions](https://gist.github.com/jjperezaguinaga/4243341)
+* [Chrome Extension Development – Background page and content script communication](https://ackshaey.wordpress.com/2016/02/15/chrome-extension-development-background-page-and-content-script-communication/)
 
 ### Howtos
 
