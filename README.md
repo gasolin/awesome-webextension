@@ -15,6 +15,7 @@ Many thanks to everyone on the [contributor list](https://github.com/gasolin/awe
 ## Browsers
 
 * :star2: [Browser support for JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) Browsers Extension APIs compatibility table
+* [Browser support for javascript syntaxes](http://kangax.github.io/compat-table/es6/)
 * [Chrome Extensions](https://developer.chrome.com/extensions)
 * [Firefox Web Extensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 * [Microsoft Edge Extensions](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/)
