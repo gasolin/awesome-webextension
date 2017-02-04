@@ -53,6 +53,10 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 * [Chrome permissions](https://developer.chrome.com/extensions/declare_permissions)
 * [Firefox permissions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/permissions)
 
+### Chrome Related
+
+* :beetle: [Debugging popups](https://developer.chrome.com/extensions/tut_debugging)
+
 ### Firefox Related
 
 * [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
