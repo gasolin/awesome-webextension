@@ -78,6 +78,7 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 ### Examples
 
 * [webextensions-examples](https://github.com/mdn/webextensions-examples) Example Firefox add-ons created using the WebExtensions API 
+* [Sample Extensions](https://developer.chrome.com/extensions/samples) Chrome Extensions Sample
 
 ## Videos
 
