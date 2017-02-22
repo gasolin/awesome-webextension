@@ -74,6 +74,7 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 
 * [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 * [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) Advanced WebExtension generator that creates everything you need to get started with extension development (Chrome, Firefox, Opera)
+* [chrome-extension-webpack-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate) using Webpack to help you write modular and modern Javascript code, load CSS easily and automatic reload the browser on code changes
 
 ### Examples
 
