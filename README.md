@@ -89,7 +89,7 @@ Assortment of conference and training videos.
 
 
 ### Training & tutorials
-
+* [Build Your Own WebExtension Add-on for Firefox](https://activate.mozilla.community/webextensions/)
 
 ## Social
 
