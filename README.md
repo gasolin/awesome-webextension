@@ -45,6 +45,11 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 ### Page actions
 `Add buttons to the address bar`
 
+### Toolbox page
+`Add new panel to developer toolbox`
+
+* [How to add a panel to Chrome Dev Tools](https://www.raymondcamden.com/2012/07/15/How-to-add-a-panel-to-Chrome-Dev-Tools)
+
 ### Extension-specific Settings Page
 * [Implement a settings page](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Implement_a_settings_page)
 
@@ -80,6 +85,7 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 
 * [webextensions-examples](https://github.com/mdn/webextensions-examples) Example Firefox add-ons created using the WebExtensions API 
 * [Sample Extensions](https://developer.chrome.com/extensions/samples) Chrome Extensions Sample
+* [Firefox Toolbox Extensions Examples]https://github.com/devtools-html/extension-examples
 
 ## Videos
 
