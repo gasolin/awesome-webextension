@@ -61,6 +61,7 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 ### Chrome Related
 
 * :beetle: [Debugging popups](https://developer.chrome.com/extensions/tut_debugging)
+* [Extending DevTools](https://developer.chrome.com/extensions/devtools)
 
 ### Firefox Related
 
