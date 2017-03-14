@@ -69,6 +69,7 @@ All quotes are comming from [Anatomy of a WebExtension](https://developer.mozill
 * :flashlight: [Chrome incompatibilities](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Chrome_incompatibilities)
 * [Mozilla WebExtensions wiki](https://wiki.mozilla.org/WebExtensions)
 * [WebExtensions Experiments](https://webextensions-experiments.readthedocs.io/en/latest/) allowing writte unsupported WebExtensions APIs in an another extension
+* [Communication](https://wiki.mozilla.org/Add-ons/developer/communication)
 * [Porting a legacy Firefox add-on](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_legacy_Firefox_add-on)
 * [Porting a Google Chrome extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
 * :beetle: [Debugging popups](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Debugging#Debugging_popups)
