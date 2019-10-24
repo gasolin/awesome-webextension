@@ -3,7 +3,7 @@ A curated list of awesome articles, tutorials and resources dealing with web ext
 
 Many thanks to everyone on the [contributor list](https://github.com/gasolin/awesome-webextension/graphs/contributors) :)
 
-##　Content
+## Content
 * [Browsers](#browsers)
 * [Articles](#articles)
 * [Tools](#tools)
